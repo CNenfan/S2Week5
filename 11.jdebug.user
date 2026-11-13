@@ -1,0 +1,23 @@
+
+
+GraphedExpression="(motor1_measure).real_current", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#e56a6f
+GraphedExpression="current_fitter", Color=#35792b
+GraphedExpression="current", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#769dda
+OpenDocument="can.c", FilePath="D:/Enfan/Robomaster/stm32_learning/11_CAN_Motor/Core/Src/can.c", Line=135
+OpenDocument="main.c", FilePath="D:/Enfan/Robomaster/stm32_learning/11_CAN_Motor/Core/Src/main.c", Line=139
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=0, w=300, h=526, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=2
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=658, h=526, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, RefreshRate=5
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=871, h=967, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=1, y=0, w=1688, h=967, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=1, CodePaneShown=1, PinCursor="Cursor Movable", TimePerDiv="100 ns / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="1325;168", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=1, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1469;117", CodeGraphLegendShown=1, CodeGraphLegendPosition="1411;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[91;144;198]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Refresh";"Expression";"Value";"Location"], ColWidths=[74;154;58;372]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;830]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (motor1_measure).real_current";" current_fitter";" current"], ColWidths=[100;100;100;100;2160]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[246;70;78;154;164;94;110;126;126]
+WatchedExpression="motor1_measure", RefreshState=2, Window=Watched Data 1
+WatchedExpression="current_fitter", RefreshState=2, Window=Watched Data 1
+WatchedExpression="current", RefreshState=2, Window=Watched Data 1
